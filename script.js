@@ -1,4 +1,4 @@
-//Muzikinės grupės turi specialius pavadinimus pagal žmonių skaičių grupėje. Pvz., „kvartetas“ yra muzikinė grupė, kurią sudaro keturi muzikantai.
+// Muzikinės grupės turi specialius pavadinimus pagal žmonių skaičių grupėje. Pvz., „kvartetas“ yra muzikinė grupė, kurią sudaro keturi muzikantai.
 // Parašykite sąlyginių teiginių seriją (else...if statements), kuri:
 // Atspausdins consolėje "ne grupė" jei muzikantų yra mažiau ar lygu 0;
 // Atspausdins consolėje "solo" jei muzikantų yra 1;
